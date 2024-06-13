@@ -1,0 +1,181 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="1745014234" file="D:\SKD\Joint_Air_Land_Navy_Warfare_Model 25.08.2021\Main Window.prj" location="D:\SKD\Joint_Air_Land_Navy_Warfare_Model 25.08.2021" name="Main Window" target="target.mlapps" target-name="Package App">
+    <param.appname>Main Window</param.appname>
+    <param.authnamewatermark />
+    <param.email />
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary />
+    <param.description />
+    <param.screenshot>C:\Users\skdas\AppData\Local\Temp\tp7a4863be_6253_4037_92a6_91c31f955692.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>693e4018-073c-423b-a90c-a4d3f86ad1a1</param.guid>
+    <unset>
+      <param.authnamewatermark />
+      <param.email />
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.summary />
+      <param.description />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\main_window.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\116MECHBN.jpg</file>
+      <file>${PROJECT_ROOT}\17InfRgt.jpg</file>
+      <file>${PROJECT_ROOT}\18ArtyRgt.jpg</file>
+      <file>${PROJECT_ROOT}\2511(I)ARMDSQN.jpg</file>
+      <file>${PROJECT_ROOT}\251MEDREGT(ULH).jpg</file>
+      <file>${PROJECT_ROOT}\3InfDiv.jpg</file>
+      <file>${PROJECT_ROOT}\8MountainInfDiv.jpg</file>
+      <file>${PROJECT_ROOT}\ADRgt.jpg</file>
+      <file>${PROJECT_ROOT}\air_strips.jpg</file>
+      <file>${PROJECT_ROOT}\Airavat.jpg</file>
+      <file>${PROJECT_ROOT}\AirSupArtillery.mlapp</file>
+      <file>${PROJECT_ROOT}\AirSupMobility.mlapp</file>
+      <file>${PROJECT_ROOT}\AmphBde.jpg</file>
+      <file>${PROJECT_ROOT}\ANEatAA.jpg</file>
+      <file>${PROJECT_ROOT}\ANEatAirStripe.jpg</file>
+      <file>${PROJECT_ROOT}\ANEatGovt.jpg</file>
+      <file>${PROJECT_ROOT}\ANEatPort.jpg</file>
+      <file>${PROJECT_ROOT}\Background_extrident.mlapp</file>
+      <file>${PROJECT_ROOT}\C130a.jpg</file>
+      <file>${PROJECT_ROOT}\C130b.jpg</file>
+      <file>${PROJECT_ROOT}\C130c.jpg</file>
+      <file>${PROJECT_ROOT}\COA1_minicoy.mlapp</file>
+      <file>${PROJECT_ROOT}\Combat_Potential_Forces_3p3.mlapp</file>
+      <file>${PROJECT_ROOT}\Combat_Potential_Forces_3p4_ExTrident.mlapp</file>
+      <file>${PROJECT_ROOT}\Combat_Potential_Forces_3p4_minicoy_island.mlapp</file>
+      <file>${PROJECT_ROOT}\Combat_Potential_Forces_3p4_southChinaSea.mlapp</file>
+      <file>${PROJECT_ROOT}\deployment_map_cropped1.jpg</file>
+      <file>${PROJECT_ROOT}\emp_NGS.mlapp</file>
+      <file>${PROJECT_ROOT}\ExTrident_scenario.mlapp</file>
+      <file>${PROJECT_ROOT}\guldar.jpg</file>
+      <file>${PROJECT_ROOT}\HQ251(I)BDEGP.jpg</file>
+      <file>${PROJECT_ROOT}\INS.jpg</file>
+      <file>${PROJECT_ROOT}\LCV MK4.jpg</file>
+      <file>${PROJECT_ROOT}\leadership.mlapp</file>
+      <file>${PROJECT_ROOT}\LehAfs.jpg</file>
+      <file>${PROJECT_ROOT}\logistic.mlapp</file>
+      <file>${PROJECT_ROOT}\Marcos.jpg</file>
+      <file>${PROJECT_ROOT}\Mi17H.jpg</file>
+      <file>${PROJECT_ROOT}\MIDiv.jpg</file>
+      <file>${PROJECT_ROOT}\minicoy_gmap.jpg</file>
+      <file>${PROJECT_ROOT}\minicoy_island_scenario.mlapp</file>
+      <file>${PROJECT_ROOT}\mission_extrident.mlapp</file>
+      <file>${PROJECT_ROOT}\morale.mlapp</file>
+      <file>${PROJECT_ROOT}\nancowry_island.jpg</file>
+      <file>${PROJECT_ROOT}\nancowry_island_SC_FAS_AOA.jpg</file>
+      <file>${PROJECT_ROOT}\NARRATIVE_extrident.mlapp</file>
+      <file>${PROJECT_ROOT}\ORBAT.mlapp</file>
+      <file>${PROJECT_ROOT}\posture_factor.mlapp</file>
+      <file>${PROJECT_ROOT}\PresentSituation_extrident.mlapp</file>
+      <file>${PROJECT_ROOT}\QJM_mobile.mlapp</file>
+      <file>${PROJECT_ROOT}\QJM_nonmobile.mlapp</file>
+      <file>${PROJECT_ROOT}\RedArmourRgt.jpg</file>
+      <file>${PROJECT_ROOT}\sat_intell.mlapp</file>
+      <file>${PROJECT_ROOT}\SC_FAS_AOA_map.mlapp</file>
+      <file>${PROJECT_ROOT}\scenario_map1.jpg</file>
+      <file>${PROJECT_ROOT}\scenario_map1.mlapp</file>
+      <file>${PROJECT_ROOT}\scenario_map2.mlapp</file>
+      <file>${PROJECT_ROOT}\scenario_map3.mlapp</file>
+      <file>${PROJECT_ROOT}\scenario_map4.mlapp</file>
+      <file>${PROJECT_ROOT}\scenario_map5.mlapp</file>
+      <file>${PROJECT_ROOT}\score_tank_dropdown.mlapp</file>
+      <file>${PROJECT_ROOT}\SF.jpg</file>
+      <file>${PROJECT_ROOT}\T72Bgd.jpg</file>
+      <file>${PROJECT_ROOT}\taiwan_scenario.mlapp</file>
+      <file>${PROJECT_ROOT}\taiwan_scenario_cropped.jpg</file>
+      <file>${PROJECT_ROOT}\terrain_effect_on_defense_posture.mlapp</file>
+      <file>${PROJECT_ROOT}\terrain_effect_on_mbility.mlapp</file>
+      <file>${PROJECT_ROOT}\training_exp.mlapp</file>
+      <file>${PROJECT_ROOT}\UAV1_image_nancowry_island.jpg</file>
+      <file>${PROJECT_ROOT}\UAV2_image_nancowry_island.jpg</file>
+      <file>${PROJECT_ROOT}\UAV_intel.mlapp</file>
+      <file>${PROJECT_ROOT}\Variable_resolution_model4.mlapp</file>
+      <file>${PROJECT_ROOT}\weather_effect.mlapp</file>
+    </fileset.depfun>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="D:\SKD" name="Joint_Air_Land_Navy_Warfare_Model 25.08.2021" optional="false">D:\SKD\Joint_Air_Land_Navy_Warfare_Model 25.08.2021</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\Polyspace\R2020a</root>
+      <toolboxes>
+        <toolbox name="matlabcoder" />
+        <toolbox name="embeddedcoder" />
+        <toolbox name="gpucoder" />
+        <toolbox name="fixedpoint" />
+        <toolbox name="matlabhdlcoder" />
+        <toolbox name="polyspacebugfinder" />
+        <toolbox name="neuralnetwork" />
+      </toolboxes>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+      <toolbox>
+        <gpucoder>
+          <enabled>true</enabled>
+        </gpucoder>
+      </toolbox>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
+      </toolbox>
+      <toolbox>
+        <polyspacebugfinder>
+          <enabled>true</enabled>
+        </polyspacebugfinder>
+      </toolbox>
+      <toolbox>
+        <neuralnetwork>
+          <enabled>true</enabled>
+        </neuralnetwork>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
